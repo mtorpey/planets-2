@@ -1,0 +1,8 @@
+# Exclude intermediate files
+
+*.dat
+
+# Exclude results directory
+
+results/
+
