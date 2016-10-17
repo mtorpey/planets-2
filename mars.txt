@@ -3,8 +3,5 @@ Two moons. This may be a problem for werewolves. Poor soul.
 Not much atmosphere, mind.
 There is a strange little creature named Bob. He growls.
 heyy
-<<<<<<< HEAD
 something 
-=======
 This time I changed first!!!
->>>>>>> 00da5cad45d2a9f8f8da5878d281422d7a4d1309
